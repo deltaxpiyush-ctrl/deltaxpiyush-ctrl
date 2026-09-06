@@ -1,10 +1,12 @@
 <div align="center">
 
+<img width="640" src="https://github.com/user-attachments/assets/9bed279e-6d7e-4eeb-b5bf-85be2efa9694" />
+
 # 👋 Hi, I'm Piyush Patil
 
-### B.Tech Student • AI & ML 🤖
+### B.Tech Student • Artificial Intelligence & Machine Learning 🤖
 
-Building projects, learning Computer Science, and exploring Artificial Intelligence.
+Building projects, learning Computer Science, and exploring AI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/piyushpatil27)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:piyushpatil27102008@gmail.com)
@@ -13,13 +15,12 @@ Building projects, learning Computer Science, and exploring Artificial Intellige
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 **B.Tech — Artificial Intelligence & Machine Learning**
-* 💻 Currently learning **Python, C/C++, Data Structures & Computer Science fundamentals**
-* 🤖 Exploring **Machine Learning and automation**
-* 🔨 Building small projects to turn what I learn into practical applications
-* 🌱 Interested in **AI, software development and open source**
+🎓 **B.Tech — Artificial Intelligence & Machine Learning**
+🔭 **Building:** Automation scripts & beginner ML projects
+📚 **Learning:** Python, C/C++, Data Structures & Computer Science
+🤝 **Open to:** Open-source collaboration & AI projects
 
 ---
 
@@ -27,27 +28,33 @@ Building projects, learning Computer Science, and exploring Artificial Intellige
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,bash,numpy,anaconda,git,github,vscode&perline=10" />
+### Languages & Development
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,bash,git,github,vscode&perline=8" />
+
+### AI / Data
+
+<img src="https://skillicons.dev/icons?i=numpy,anaconda&perline=5" />
+
+### Creative Tools
+
+<img src="https://skillicons.dev/icons?i=photoshop,premiere&perline=5" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=DevPiyush27&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="145" src="https://github-readme-stats.vercel.app/api?username=DevPiyush27&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPiyush27&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPiyush27&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img height="150" src="https://streak-stats.demolab.com/?user=DevPiyush27&theme=github-dark-blue&hide_border=true" />
+<img height="145" src="https://streak-stats.demolab.com/?user=DevPiyush27&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -65,6 +72,6 @@ Building projects, learning Computer Science, and exploring Artificial Intellige
 
 <div align="center">
 
-### 💡 "Build. Break. Learn. Repeat."
+### ⚡ Build • Learn • Improve
 
 </div>
