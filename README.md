@@ -49,6 +49,8 @@ and exploring practical applications of Artificial Intelligence.
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-40CAFA.svg?style=flat&logo=davinciresolve&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543.svg?style=flat&logo=gimp&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 
@@ -61,18 +63,6 @@ and exploring practical applications of Artificial Intelligence.
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=deltaxpiyush-ctrl&theme=tokyonight&no-bg=true&no-frame=true" />
-</a>
 
 </div>
 
