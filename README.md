@@ -36,7 +36,7 @@ and exploring practical applications of Artificial Intelligence.
 ![C++](https://img.shields.io/badge/-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Bash](https://img.shields.io/badge/-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/-121011?style=flat-square&logo=gnubash&logoColor=white)
 
 ### 🤖 AI & Data
 
@@ -45,14 +45,14 @@ and exploring practical applications of Artificial Intelligence.
 
 ### 🎨 Creative Tools
 
-![Adobe Lightroom](https://img.shields.io/badge/-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
 ![Canva](https://img.shields.io/badge/-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 
-![Windows Terminal](https://img.shields.io/badge/-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white)
 ![Git](https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)
 
@@ -76,13 +76,13 @@ and exploring practical applications of Artificial Intelligence.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=DevPiyush27&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=DevPiyush27&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=00000000" />
 
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DevPiyush27&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DevPiyush27&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=00000000" />
 
 <br><br>
 
-<img height="165" src="https://streak-stats.demolab.com/?user=DevPiyush27&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=DevPiyush27&theme=tokyonight&hide_border=true&background=transparent" />
 
 </div>
 
