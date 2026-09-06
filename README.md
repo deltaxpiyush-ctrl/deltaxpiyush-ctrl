@@ -43,18 +43,17 @@ Building projects, learning Computer Science, and exploring AI.
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="145" src="https://github-readme-stats.vercel.app/api?username=DevPiyush27&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=DevPiyush27&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" />
 
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPiyush27&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPiyush27&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 <br><br>
 
-<img height="145" src="https://streak-stats.demolab.com/?user=DevPiyush27&theme=github-dark-blue&hide_border=true" />
+<img height="150" src="https://streak-stats.demolab.com/?user=DevPiyush27&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
