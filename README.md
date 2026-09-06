@@ -45,14 +45,14 @@ and exploring practical applications of Artificial Intelligence.
 
 ### 🎨 Creative Tools
 
-![Adobe Lightroom](https://img.shields.io/badge/-31A8FF?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![Canva](https://img.shields.io/badge/-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 
-![Windows Terminal](https://img.shields.io/badge/-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Git](https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -64,7 +64,9 @@ and exploring practical applications of Artificial Intelligence.
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=DevPiyush27&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevPiyush27&theme=tokyonight&no-bg=true&no-frame=true" />
+</a>
 
 </div>
 
