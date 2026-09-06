@@ -71,7 +71,7 @@ and exploring practical applications of Artificial Intelligence.
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevPiyush27&theme=tokyonight&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=deltaxpiyush-ctrl&theme=tokyonight&no-bg=true&no-frame=true" />
 </a>
 
 </div>
@@ -82,13 +82,13 @@ and exploring practical applications of Artificial Intelligence.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=DevPiyush27&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=00000000" />
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=deltaxpiyush-ctrl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=00000000" />
 
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DevPiyush27&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=00000000" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=deltaxpiyush-ctrl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=00000000" />
 
 <br><br>
 
-<img height="165" src="https://streak-stats.demolab.com/?user=DevPiyush27&theme=tokyonight&hide_border=true&background=transparent" />
+<img height="165" src="https://streak-stats.demolab.com/?user=deltaxpiyush-ctrl&theme=tokyonight&hide_border=true&background=transparent" />
 
 </div>
 
