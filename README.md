@@ -32,29 +32,29 @@ and exploring practical applications of Artificial Intelligence.
 
 ### 💻 Programming & Development
 
-<img src="https://img.shields.io/badge/-00599C?style=flat-square&logo=c&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/-E34F26?style=flat-square&logo=html5&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/-121011?style=flat-square&logo=gnubash&logoColor=white" height="35" />
+![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bash](https://img.shields.io/badge/-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🤖 AI & Data
 
-<img src="https://img.shields.io/badge/-013243?style=flat-square&logo=numpy&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/-44A833?style=flat-square&logo=anaconda&logoColor=white" height="35" />
+![NumPy](https://img.shields.io/badge/-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ### 🎨 Creative Tools
 
-<img src="https://img.shields.io/badge/-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/-00C4CC?style=flat-square&logo=canva&logoColor=white" height="35" />
+![Adobe Lightroom](https://img.shields.io/badge/-31A8FF?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
+![Canva](https://img.shields.io/badge/-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 
-<img src="https://img.shields.io/badge/-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" height="35" />
+![Windows Terminal](https://img.shields.io/badge/-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+![Git](https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -64,9 +64,7 @@ and exploring practical applications of Artificial Intelligence.
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevPiyush27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</a>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=DevPiyush27&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
